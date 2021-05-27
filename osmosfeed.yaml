@@ -1,4 +1,17 @@
 cacheUrl: https://lewkyb.github.io/github_rss/cache.json
 sources:
   - href: https://fasterthanli.me/index.xml
-
+  - href: https://acoup.blog/feed
+  - href: http://antirez.com/
+  - href: https://martin.kleppmann.com/archive.html
+  - href: https://devblogs.microsoft.com/oldnewthing
+  - href: https://ma.tt/
+  - href: https://www.allthingsdistributed.com/
+  - href: https://jvns.ca/
+  - href: https://www.johndcook.com/blog
+  - href: http://feross.org/
+  - href: https://ridiculousfish.com/blog/
+  - href: https://blog.andrewcantino.com/
+  - href: https://nickcraver.com/blog/
+  - href: https://blog.acolyer.org
+  - href: https://blog.codinghorror.com
