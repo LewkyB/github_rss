@@ -8,9 +8,9 @@ sources:
   - href: https://ma.tt/feed
   - href: https://jvns.ca/atom.xml
   - href: https://www.johndcook.com/blog/rss
-  - href: http://feross.org/
-  - href: https://ridiculousfish.com/blog/
+  - href: https://feross.org/atom.xml
+  - href: https://ridiculousfish.com/blog/atom.xml
   - href: https://blog.andrewcantino.com/
-  - href: https://nickcraver.com/blog/
-  - href: https://blog.acolyer.org
-  - href: https://blog.codinghorror.com
+  - href: https://nickcraver.com/blog/feed.xml
+  - href: https://blog.acolyer.org/feed
+  - href: https://blog.codinghorror.com/rss/
