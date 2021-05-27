@@ -2,10 +2,557 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lewkyb.github.io/github_rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T22:34:21.724Z</updated>
+    <updated>2021-05-27T22:56:50.402Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lewkyb.github.io/github_rss/index.html"/>
     <link rel="self" href="https://lewkyb.github.io/github_rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WordPress 18]]></title>
+        <id>https://ma.tt/?p=54256</id>
+        <link href="https://ma.tt/2021/05/wordpress-18/"/>
+        <updated>2021-05-27T22:31:23.000Z</updated>
+        <summary type="html"><![CDATA[Today marks eighteen years since the very first release of WordPress. I consider myself so lucky to have co-founded the project alongside Mike Little. Who could have imagined that our nights and weekends hacking on blogging software, a fork of b2/cafelog, could turn into something powering over 40% of the web? Or that nearly twenty […]]]></summary>
+        <author>
+            <name>Matt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plastic number feels plastic]]></title>
+        <id>https://www.johndcook.com/blog/?p=76689</id>
+        <link href="https://www.johndcook.com/blog/2021/05/27/plastic-number-feels-plastic/"/>
+        <updated>2021-05-27T16:50:54.000Z</updated>
+        <summary type="html"><![CDATA[The plastic ratio is given by The Dutch architect Dom Hans van der Laan gave the number this name in 1928. He used “plastic” as an allusion to a 3D construction of the number, analogous to the 2D construction of the golden ratio. Here’s a plastic rectangle, a rectangle whose sides have the proportions of […]
+Plastic number feels plastic first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How can I convert between IANA time zones and Windows registry-based time zones?]]></title>
+        <id>https://devblogs.microsoft.com/oldnewthing/?p=105255</id>
+        <link href="https://devblogs.microsoft.com/oldnewthing/20210527-00/?p=105255"/>
+        <updated>2021-05-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A customer wanted to be able to convert from IANA time zones and Windows registry-based time zones. Is there a function for doing that?
+The post How can I convert between IANA time zones and Windows registry-based time zones? appeared first on The Old New Thing.]]></summary>
+        <author>
+            <name>Raymond Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coin distribution]]></title>
+        <id>https://www.johndcook.com/blog/?p=76612</id>
+        <link href="https://www.johndcook.com/blog/2021/05/26/coin-distribution/"/>
+        <updated>2021-05-26T16:02:36.000Z</updated>
+        <summary type="html"><![CDATA[What is the distribution of coins you’d expect to see in a coin jar? This post will make a guess based on the following simplifying assumptions. Change is in US currency, with coins in denominations of 1, 5, 10, and 25 cents. The change due in a transaction is uniformly distributed from 0 to 99 […]
+Coin distribution first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How ownership of the Windows clipboard is tracked in Win32]]></title>
+        <id>https://devblogs.microsoft.com/oldnewthing/?p=105252</id>
+        <link href="https://devblogs.microsoft.com/oldnewthing/20210526-00/?p=105252"/>
+        <updated>2021-05-26T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In Win32, there is the concept of a clipboard owner. How does that work?
+Call Open­Clipboard(hwnd) passing the window that you want to become the new clipboard owner.
+The post How ownership of the Windows clipboard is tracked in Win32 appeared first on The Old New Thing.]]></summary>
+        <author>
+            <name>Raymond Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why exponential sums are interesting]]></title>
+        <id>https://www.johndcook.com/blog/?p=76593</id>
+        <link href="https://www.johndcook.com/blog/2021/05/26/why-exponential-sums/"/>
+        <updated>2021-05-26T13:18:19.000Z</updated>
+        <summary type="html"><![CDATA[The exponential sum page on this site draws lines between the consecutive partial sums of where m is the month, d is the day, and y is the last two digits of the year. I get mixed feedback on my exponential sum page. Some people find it even more interesting than I do and have […]
+Why exponential sums are interesting first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why are device-independent bitmaps upside down?]]></title>
+        <id>https://devblogs.microsoft.com/oldnewthing/?p=105250</id>
+        <link href="https://devblogs.microsoft.com/oldnewthing/20210525-00/?p=105250"/>
+        <updated>2021-05-25T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Something that catches out everybody the first time they encounter it is that Windows device-independent bitmaps are upside down, in the sense that the first row of pixels corresponds to the bottom scan line of the image, and subsequent rows of pixels continue upward,
+The post Why are device-independent bitmaps upside down? appeared first on The Old New Thing.]]></summary>
+        <author>
+            <name>Raymond Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LaTeX and Lawyers]]></title>
+        <id>https://www.johndcook.com/blog/?p=76460</id>
+        <link href="https://www.johndcook.com/blog/2021/05/24/latex-and-lawyers/"/>
+        <updated>2021-05-24T15:56:44.000Z</updated>
+        <summary type="html"><![CDATA[Lawyers write Word documents and mathematicians write LaTeX documents. Of course makes collaboration awkward, but there are ways to make it better. One solution is to simply use Word. People who use LaTeX probably know how to use Word, even if they’d rather not, and asking someone else to learn LaTeX is a non-starter. So […]
+LaTeX and Lawyers first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On static methods in the Windows Runtime and C++/WinRT]]></title>
+        <id>https://devblogs.microsoft.com/oldnewthing/?p=105240</id>
+        <link href="https://devblogs.microsoft.com/oldnewthing/20210524-00/?p=105240"/>
+        <updated>2021-05-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Windows Runtime supports static members, which are members that apply to a class as a whole, rather than to particular instances of a class. The expectation is that these members are exposed via the language projection as static members of some language-specific representation of the class.
+The post On static methods in the Windows Runtime and C++/WinRT appeared first on The Old New Thing.]]></summary>
+        <author>
+            <name>Raymond Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog about what you've struggled with]]></title>
+        <id>https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/</id>
+        <link href="https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/"/>
+        <updated>2021-05-24T13:59:07.000Z</updated>
+        <summary type="html"><![CDATA[I was talking to Jemma recently about what stops people
+from blogging. One barrier that stood out to me was: it’s hard to identify
+which things you know will be useful to other people!
+The process I use for a lot of my blog posts is:
+Struggle with something (usually computer-related)
+Eventually (days or months or years later), figure out how to solve some of
+the problems I had
+Write a blog post about what helped me
+I think this approach is effective because if I struggled with something,
+there’s a pretty good chance that other people are struggling with it too, and
+what I learned is likely to be useful to at least some of them!
+Obviously this isn’t the only approach to blogging, but it’s my approach, so
+that’s what I’m going to write about here :). I’ll give a few examples of
+specific blog…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Pattern Language]]></title>
+        <id>https://www.johndcook.com/blog/?p=74855</id>
+        <link href="https://www.johndcook.com/blog/2021/05/22/a-pattern-language/"/>
+        <updated>2021-05-22T17:12:31.000Z</updated>
+        <summary type="html"><![CDATA[I first heard of the book A Pattern Language sometime in the 1990s. I had left academia, for the first time [1], and was working as a software developer. Although the book is about architecture, software developers were exited about the book because of its analogs to software development patterns. The “Gang of Four” book […]
+A Pattern Language first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 Streaming Kit]]></title>
+        <id>https://ma.tt/?p=54177</id>
+        <link href="https://ma.tt/2021/05/2021-streaming-kit/"/>
+        <updated>2021-05-21T23:29:19.000Z</updated>
+        <summary type="html"><![CDATA[My streaming setup post last year got an amazing reception — there are similar setups being used by executives across the board, from companies fundraising to several I know of with 100B+ valuations. Since that original setup, I’ve updated my own usage of hardware and software combinations to achieve similar or better results for about a […]]]></summary>
+        <author>
+            <name>Matt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Obtaining attributed network usage information from the Windows Runtime]]></title>
+        <id>https://devblogs.microsoft.com/oldnewthing/?p=105234</id>
+        <link href="https://devblogs.microsoft.com/oldnewthing/20210521-00/?p=105234"/>
+        <updated>2021-05-21T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The network usage information we obtained  last time can also be attributed, so you can see who is consuming all of your bandwidth.
+The post Obtaining attributed network usage information from the Windows Runtime appeared first on The Old New Thing.]]></summary>
+        <author>
+            <name>Raymond Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet a Historian: Robin S. Reich on Making Sense of Medieval Medicine: Humors, Weird Animal Parts, and Experiential Knowledge]]></title>
+        <id>https://acoup.blog/?p=7418</id>
+        <link href="https://acoup.blog/2021/05/20/meet-a-historian-robin-s-reich-on-making-sense-of-medieval-medicine-humors-weird-animal-parts-and-experiential-knowledge/"/>
+        <updated>2021-05-21T03:53:55.000Z</updated>
+        <summary type="html"><![CDATA[Note from the Editor: I’m excited that I have our first (hopefully of many!) guest post to share with you and it is a fascinating topic to start with. The history of medicine (and the history of science more generally) is a captivating and important sub-field and a frequent reader-request, but also a place where … Continue reading Meet a Historian: Robin S. Reich on Making Sense of Medieval Medicine: Humors, Weird Animal Parts, and Experiential Knowledge →]]></summary>
+        <author>
+            <name>Bret Devereaux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Obtaining network usage information from the Windows Runtime]]></title>
+        <id>https://devblogs.microsoft.com/oldnewthing/?p=105232</id>
+        <link href="https://devblogs.microsoft.com/oldnewthing/20210520-00/?p=105232"/>
+        <updated>2021-05-20T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Network usage information on Windows can be obtained from classes in the Windows.Networking.Connectivity namespace. The Network­Information class is your starting point.
+The post Obtaining network usage information from the Windows Runtime appeared first on The Old New Thing.]]></summary>
+        <author>
+            <name>Raymond Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Squarespace Direct Listing]]></title>
+        <id>https://ma.tt/?p=54194</id>
+        <link href="https://ma.tt/2021/05/squarespace-direct-listing/"/>
+        <updated>2021-05-20T02:37:49.000Z</updated>
+        <summary type="html"><![CDATA[Squarespace filed their S-1 last month, and went a direct listing route for their stock today under the ticker SQSP, so I’ve been getting lots of questions on my thoughts on their business. It’s easier to share here in a blog than individually. Squarespace’s CEO Anthony Casalena is a thoughtful, creative leader. It’s amazing what […]]]></summary>
+        <author>
+            <name>Matt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Email subscription changing]]></title>
+        <id>https://www.johndcook.com/blog/?p=76141</id>
+        <link href="https://www.johndcook.com/blog/2021/05/19/email-subscription-changing/"/>
+        <updated>2021-05-19T19:34:28.000Z</updated>
+        <summary type="html"><![CDATA[Email subscription for this web site has been provided by Google Feedburner. This service is going away in July. I don’t know yet what I will replace Feedburner with. Do any of you know of an alternative that automatically sends out email when there’s a new post? I use Mail Chip to distribute by monthly […]
+Email subscription changing first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Awaiting Windows Runtime asynchronous operations from C# desktop apps]]></title>
+        <id>https://devblogs.microsoft.com/oldnewthing/?p=105229</id>
+        <link href="https://devblogs.microsoft.com/oldnewthing/20210519-00/?p=105229"/>
+        <updated>2021-05-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some time ago, I showed  how to use Windows Runtime objects from C# desktop apps. But that solution only went part of the way. It gave you access to the objects, but it didn’t provide a way to await any asynchronous operations.
+The post Awaiting Windows Runtime asynchronous operations from C# desktop apps appeared first on The Old New Thing.]]></summary>
+        <author>
+            <name>Raymond Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The blessing of the leading zero]]></title>
+        <id>https://devblogs.microsoft.com/oldnewthing/?p=105225</id>
+        <link href="https://devblogs.microsoft.com/oldnewthing/20210518-00/?p=105225"/>
+        <updated>2021-05-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some time ago, I noted  the curse of the leading zero. But sometimes the leading zero can be a blessing.
+The post The blessing of the leading zero appeared first on The Old New Thing.]]></summary>
+        <author>
+            <name>Raymond Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The base with the largest decibel]]></title>
+        <id>https://www.johndcook.com/blog/?p=75977</id>
+        <link href="https://www.johndcook.com/blog/2021/05/18/the-base-with-the-largest-decibel/"/>
+        <updated>2021-05-18T12:40:50.000Z</updated>
+        <summary type="html"><![CDATA[This post is an expansion on a comment by Nathan Hannon: My favorite definition of e is “the base whose version of the decibel is the largest”. I hadn’t seen that before. Sounds interesting. What does it mean? First attempt My first thought was that the statement meant that the function b logb(x) is largest […]
+The base with the largest decibel first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relating Rényi entropy and q-log entropy]]></title>
+        <id>https://www.johndcook.com/blog/?p=75945</id>
+        <link href="https://www.johndcook.com/blog/2021/05/18/renyi-and-qlog-entropy/"/>
+        <updated>2021-05-18T12:38:40.000Z</updated>
+        <summary type="html"><![CDATA[I’ve written before about Rényi entropy Hq and most recently q-log entropy Sq, two generalizations of Shannon entropy. There are simple equations relating Rényi entropy and q-log entropy if we measure both in nats: I mentioned in the post on q-log entropy that there were two possible ways it could be defined. The equation above […]
+Relating Rényi entropy and q-log entropy first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generalizing Shannon entropy with q-logs]]></title>
+        <id>https://www.johndcook.com/blog/?p=75716</id>
+        <link href="https://www.johndcook.com/blog/2021/05/17/qlog-tsallis-entropy/"/>
+        <updated>2021-05-17T14:42:40.000Z</updated>
+        <summary type="html"><![CDATA[The most common way to quantify entropy is Shannon entropy. That’s what people usually mean when they say “entropy” without further qualifications. A while back I wrote about Renyi entropy as a generalization of Shannon entropy. This time I’ll explore a different generalization called q-log entropy, a.k.a. Tsallis entropy. The definition of Shannon entropy includes […]
+Generalizing Shannon entropy with q-logs first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why did Windows 95 keep window coordinates at multiples of 8?]]></title>
+        <id>https://devblogs.microsoft.com/oldnewthing/?p=105217</id>
+        <link href="https://devblogs.microsoft.com/oldnewthing/20210517-00/?p=105217"/>
+        <updated>2021-05-17T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Retro-computing aficionado  Gravis noticed that  up until Windows 95, horizontal window positions are quantized. “Do you know anything about that?”
+The post Why did Windows 95 keep window coordinates at multiples of 8? appeared first on The Old New Thing.]]></summary>
+        <author>
+            <name>Raymond Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stumbling on an abandoned uranium mine]]></title>
+        <id>https://www.johndcook.com/blog/?p=75695</id>
+        <link href="https://www.johndcook.com/blog/2021/05/17/uranium-mine/"/>
+        <updated>2021-05-17T11:50:41.000Z</updated>
+        <summary type="html"><![CDATA[Last week my family and I made a tour of the five national parks in Utah. In Canyonlands National Park, my son-in-law noticed some grates at the bottom of a hill just a few feet off the road we were walking on. The area was not restricted. We walked over to investigate and found that […]
+Stumbling on an abandoned uranium mine first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to look at the stack with gdb]]></title>
+        <id>https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/</id>
+        <link href="https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/"/>
+        <updated>2021-05-17T09:14:37.000Z</updated>
+        <summary type="html"><![CDATA[I was chatting with someone yesterday and they mentioned that they don’t really
+understand exactly how the stack works or how to look at it.
+So here’s a quick walkthrough of how you can use gdb to look at the stack of a C
+program. I think this would be similar for a Rust program, but I’m going to use
+C because I find it a little simpler for a toy example and also you can do Terrible
+Things in C more easily.
+our test program
+Here’s a simple C program that declares a few variables and reads two strings
+from standard input. One of the strings is on the heap, and one is on the
+stack.
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    char stack_string[10] = "stack";
+    int x = 10;
+    char *heap_string;
+
+    heap_string = malloc(50);
+
+    printf("Enter a string for the stack: ");
+    ge…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decibel to log in new base]]></title>
+        <id>https://www.johndcook.com/blog/?p=75691</id>
+        <link href="https://www.johndcook.com/blog/2021/05/16/decibel-to-log/"/>
+        <updated>2021-05-17T02:44:18.000Z</updated>
+        <summary type="html"><![CDATA[Logarithms in all bases are proportional. Specifically loga(x) = logb(x) / logb(a) for any bases a and b. One way to read this is to say that if you already know about logarithms base b, logarithms base a aren’t anything fundamentally new [1]. They’re proportional to logarithms base b, and in fact the proportionality constant […]
+Decibel to log in new base first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collections: Teaching Paradox, Europa Universalis IV, Part III: Europa Provincalis]]></title>
+        <id>https://acoup.blog/?p=7258</id>
+        <link href="https://acoup.blog/2021/05/14/collections-teaching-paradox-europa-universalis-iv-part-iii-europa-provincalis/"/>
+        <updated>2021-05-14T16:49:47.000Z</updated>
+        <summary type="html"><![CDATA[This is the third part of our series (I, II) examining the historical assumptions of Paradox Interactive’s grand strategy computer game set in the early modern period, Europa Universalis IV (which is in turn the start of a yet larger series looking at several of Paradox’s games and how they treat their historical subjects. Last … Continue reading Collections: Teaching Paradox, Europa Universalis IV, Part III: Europa Provincalis →]]></summary>
+        <author>
+            <name>Bret Devereaux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why isn’t my shell namespace extension getting every single DragOver mouse message?]]></title>
+        <id>https://devblogs.microsoft.com/oldnewthing/?p=105214</id>
+        <link href="https://devblogs.microsoft.com/oldnewthing/20210514-00/?p=105214"/>
+        <updated>2021-05-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A customer had a shell namespace extension and discovered that when the user dragged an item, their custom drop target gets Drag­Enter and Drag­Leave method calls as expected, but the Drag­Over method calls are being throttled. Specifically, they get a new Drag­Over call only if the keyboard modifier state changes.
+The post Why isn’t my shell namespace extension getting every single DragOver mouse message? appeared first on The Old New Thing.]]></summary>
+        <author>
+            <name>Raymond Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming and Writing]]></title>
+        <id>http://antirez.com/news/135</id>
+        <link href="http://antirez.com/news/135"/>
+        <updated>2021-05-14T09:47:18.000Z</updated>
+        <summary type="html"><![CDATA[One year ago I paused my programming life and started writing a novel, with the illusion that my new activity was deeply different than the previous one. A river of words later, written but more often rewritten, I’m pretty sure of the contrary: programming big systems and writing novels have many common traits and similar processes.
+
+The most obvious parallel between the two activities is that in both of them you write something. Code is not prose written in a natural language, yet it has a set of fixed rules (a grammar), certain forms that most programmers will understand as natural and others that, while formally correct, will sound hard to grasp.
+There is, however, a much deeper connection between the two activities: a good program and a good novel are both the sum of local and global e…]]></summary>
+        <author>
+            <name>&lt;antirez&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most popular posts this year]]></title>
+        <id>https://www.johndcook.com/blog/?p=75245</id>
+        <link href="https://www.johndcook.com/blog/2021/05/12/most-popular-posts-this-year/"/>
+        <updated>2021-05-12T12:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Here are the five most popular posts so far this year. Self-reproducing cellular automata Simple trig approximations How to mentally calculate logs Trig functions across programming languages Gell-Mann amnesia The posts above had the most page views. But just counting page views doesn’t measure what regular readers necessarily most enjoy reading. It’s heavily influenced by […]
+Most popular posts this year first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benchmarking division and libdivide on Apple M1 and Intel AVX512]]></title>
+        <id>http://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html</id>
+        <link href="http://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html"/>
+        <updated>2021-05-12T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[libdivide is fish’s library for speeding up integer division by runtime constants. It works by replacing divide instructions with cheaper multiplications and shifts.
+libdivide supports SIMD, and recently gained support for AVX-512 and ARM NEON. Let’s benchmark on an Intel Xeon and Apple’s M1.
+Test Setup
+The microbenchmark is a sum-of-quotients function, like:
+uint32_t sumq(const uint32_t *vals, size_t count, uint32_t d) {
+    uint32_t sum = 0;
+    for (size_t i=0; i < count; i++)
+        sum += vals[i] / d; // this division is the bottleneck
+    return sum;
+}
+
+
+The execution time of this function is dominated by the divide. It may be optimized with libdivide:
+uint32_t sumq(const uint32_t *vals, size_t count, uint32_t d) {
+    libdivide::divider<uint32_t> div(d);
+    uint32_t sum = 0;
+    f…]]></summary>
+        <author>
+            <name>ridiculous_fish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The OSI model doesn't map well to TCP/IP]]></title>
+        <id>https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/</id>
+        <link href="https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/"/>
+        <updated>2021-05-11T14:58:41.000Z</updated>
+        <summary type="html"><![CDATA[TCP/IP is the set of networking protocols that we use on the modern internet –
+TCP, UDP, IP, ARP, ICMP, DNS, etc. When I talk about “networking”, I’m
+basically always talking about TCP/IP.
+Many explanations of TCP/IP start with something called the “OSI model”. I
+don’t use the OSI model when explaining networking because when I first
+started learning about internet networking I found all of the OSI model
+explanations really confusing – it wasn’t clear to me at all how the OSI
+model corresponded to TCP/IP.
+So if you’re just starting to learn about networking and you’re confused about
+the OSI model, here’s an explanation of how it corresponds to TCP/IP, how
+it doesn’t, and why it’s safe to mostly just ignore it if you don’t find it helpful.
+the OSI model has 7 layers
+Let’s very briefly discu…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyclic permutations and trace]]></title>
+        <id>https://www.johndcook.com/blog/?p=75327</id>
+        <link href="https://www.johndcook.com/blog/2021/05/10/cyclic-permutations-and-trace/"/>
+        <updated>2021-05-10T12:42:57.000Z</updated>
+        <summary type="html"><![CDATA[The trace of a square matrix is the sum of the elements on its main diagonal. The order in which you multiply matrices matters: in general, matrix multiplication is not commutative. But the trace of a product of matrices may or may not depend on the order of multiplication. Specifically, trace doesn’t change if you […]
+Cyclic permutations and trace first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trick for 2×2 eigenvalues]]></title>
+        <id>https://www.johndcook.com/blog/?p=75292</id>
+        <link href="https://www.johndcook.com/blog/2021/05/07/trick-for-2x2-eigenvalues/"/>
+        <updated>2021-05-08T01:18:36.000Z</updated>
+        <summary type="html"><![CDATA[3Blue1Brown has a nice new video on how to calculate the eigenvalues of 2×2 matrices. The most common way to find the eigenvalues of a 2×2 matrix A is working straight from the definition, solving det(A – λI) = 0. This is fine when you’re learning what eigenvalues are. But if you’ve already learned all […]
+Trick for 2×2 eigenvalues first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Universal confidence interval]]></title>
+        <id>https://www.johndcook.com/blog/?p=75281</id>
+        <link href="https://www.johndcook.com/blog/2021/05/07/universal-confidence-interval/"/>
+        <updated>2021-05-07T19:17:25.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a way to find a 95% confidence interval for any parameter θ. With probability 0.95, return the real line. With probability 0.05, return the empty set. Clearly 95% of the time this procedure will return an interval that contains θ. This example shows the difference between a confidence interval and a credible interval. A […]
+Universal confidence interval first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a polynomial?]]></title>
+        <id>https://www.johndcook.com/blog/?p=75265</id>
+        <link href="https://www.johndcook.com/blog/2021/05/07/what-is-a-polynomial/"/>
+        <updated>2021-05-07T16:50:19.000Z</updated>
+        <summary type="html"><![CDATA[When you leave the comfort of the real numbers, you might be mistaken about what a polynomial is. Suppose you’re looking at polynomials over some finite field. Why would you do that? Numerous practical applications, but that’s a topic for another post. You look in some reference that’s talking about polynomials and you see things […]
+What is a polynomial? first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collections: Teaching Paradox, Europa Universalis IV, Part II: Red Queens]]></title>
+        <id>https://acoup.blog/?p=7135</id>
+        <link href="https://acoup.blog/2021/05/07/collections-teaching-paradox-europa-universalis-iv-part-ii-red-queens/"/>
+        <updated>2021-05-07T05:23:09.000Z</updated>
+        <summary type="html"><![CDATA[This is the second part in a series (I) that examines the historical assumptions behind Paradox Interactive’s grand strategy computer game set in the early modern period, Europa Universalis IV (EU4). Last time, we took a look at how EU4 was a game fundamentally about states and how the decision to orient the game in … Continue reading Collections: Teaching Paradox, Europa Universalis IV, Part II: Red Queens →]]></summary>
+        <author>
+            <name>Bret Devereaux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Confidence interval widths]]></title>
+        <id>https://www.johndcook.com/blog/?p=75178</id>
+        <link href="https://www.johndcook.com/blog/2021/05/06/confidence-interval-widths/"/>
+        <updated>2021-05-06T16:15:30.000Z</updated>
+        <summary type="html"><![CDATA[Suppose you do N trials of something that can succeed or fail. After your experiment you want to present a point estimate and a confidence interval. Or if you’re a Bayesian, you want to present a posterior mean and a credible interval. The numerical results hardly differ, though the two interpretations differ. If you got […]
+Confidence interval widths first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multicolor reproducing cellular automata]]></title>
+        <id>https://www.johndcook.com/blog/?p=75017</id>
+        <link href="https://www.johndcook.com/blog/2021/05/03/multicolor-reproducing-ca/"/>
+        <updated>2021-05-03T23:48:57.000Z</updated>
+        <summary type="html"><![CDATA[The previous post looked at a cellular automaton introduced by Edward Fredkin. It has only two states: a cell is on or off. At each step, each cell is set to the sum of the states of the neighboring cells mod 2. So a cell is on if it had an odd number neighbors turned […]
+Multicolor reproducing cellular automata first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-reproducing cellular automata]]></title>
+        <id>https://www.johndcook.com/blog/?p=74962</id>
+        <link href="https://www.johndcook.com/blog/2021/05/03/self-reproducing-cellular-automata/"/>
+        <updated>2021-05-03T11:41:58.000Z</updated>
+        <summary type="html"><![CDATA[Edward Fredkin is best known these days for the Fredkin gate, a universal reversible circuit. I recently found out that Fredkin was one of the pioneers in cellular automata. His student Edwin Banks describes a cellular automaton introduced by Fredkin [1]. Edward Fredkin of MIT has described the following interesting cellular space. If the states […]
+Self-reproducing cellular automata first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I put all of my comics online!]]></title>
+        <id>https://jvns.ca/blog/2021/05/02/publishing-comics/</id>
+        <link href="https://jvns.ca/blog/2021/05/02/publishing-comics/"/>
+        <updated>2021-05-02T11:41:59.000Z</updated>
+        <summary type="html"><![CDATA[Hello! As you probably know, I write a lot of comics about programming, and I publish collections of them as zines you can buy at https://wizardzines.com.
+I also usually post the comics on Twitter as I write them. But there are a lot of problems with just posting them to Twitter, like:
+the pages are hard to find. For example, if you want to find the one on
+socat, you can search twitter
+and you’ll find it, but then you have to somehow magically guess what words I
+used in the tweet, and also sort through a bunch of other tweets.
+they’re annoying to link to. Twitter isn’t really the best user interface for this sort of thing.
+I can’t make updates. Twitter doesn’t have an edit button!
+work that never made it into a zine is basically impossible to find. For example I
+wrote 12 pages of a sequel …]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humming St. Christopher]]></title>
+        <id>https://www.johndcook.com/blog/?p=74884</id>
+        <link href="https://www.johndcook.com/blog/2021/05/01/humming-st-christopher/"/>
+        <updated>2021-05-02T00:39:21.000Z</updated>
+        <summary type="html"><![CDATA[The other day I woke up with a song in my head I hadn’t heard in a long time, the hymn Beneath the Cross of Jesus. The name of the tune is St. Christopher. When I thought about the tune, I realized it has some fairly sophisticated harmony. My memory of the hymns I grew […]
+Humming St. Christopher first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aliquot ratio distribution]]></title>
+        <id>https://www.johndcook.com/blog/?p=74845</id>
+        <link href="https://www.johndcook.com/blog/2021/05/01/aliquot-ratio-distribution/"/>
+        <updated>2021-05-01T15:06:44.000Z</updated>
+        <summary type="html"><![CDATA[The previous post looked at repeatedly applying the function s(n) which is the sum of the divisors of n less than n. It is an open question whether the sequence s( s( s( … s(n) … ) ) ) always converges or enters a loop. In fact, it’s an open question of whether the sequence […]
+Aliquot ratio distribution first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The iterated aliquot problem]]></title>
+        <id>https://www.johndcook.com/blog/?p=74784</id>
+        <link href="https://www.johndcook.com/blog/2021/05/01/the-iterated-aliquot-problem/"/>
+        <updated>2021-05-01T13:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Let s(n) be the sum of the proper divisors of n, the divisors less than n itself. A number n is called excessive, deficient, or perfect depending on whether s(n) – n is positive, negative, or 0 respectively, as I wrote about a few days ago. The number s(n) is called the aliquot sum of […]
+The iterated aliquot problem first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fine, we'll relocate our own binary!]]></title>
         <id>https://fasterthanli.me/series/making-our-own-executable-packer/part-18</id>
@@ -19,6 +566,109 @@ together <code>stage1</code> (a launcher), and a compressed version of whichever
 we wanted to pack.</p>]]></summary>
         <author>
             <name>fasterthanli.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cologarithms and Entropy]]></title>
+        <id>https://www.johndcook.com/blog/?p=74748</id>
+        <link href="https://www.johndcook.com/blog/2021/04/30/cologarithm/"/>
+        <updated>2021-04-30T16:54:22.000Z</updated>
+        <summary type="html"><![CDATA[The term “cologarithm” was once commonly used but now has faded from memory. Here’s a plot of the frequency of the terms cololgarithm and colog from Google’s Ngram Viewer. The cologarithm base b is the logarithm base 1/b, or equivalently, the negative of the logarithm base b. cologb x = log1/b x = -logb x […]
+Cologarithms and Entropy first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corollary of a well-known fact]]></title>
+        <id>https://www.johndcook.com/blog/?p=74746</id>
+        <link href="https://www.johndcook.com/blog/2021/04/30/corollary-of-a-well-known-fact/"/>
+        <updated>2021-04-30T15:58:19.000Z</updated>
+        <summary type="html"><![CDATA[When students learn about decimals, they’re told that every fraction either has a terminating decimal expansion or a repeating decimal expansion. The previous post gives a constructive proof of the converse: given a repeating fraction (in any base) it shows how to find what rational number it corresponds to. Maybe you learned this so long […]
+Corollary of a well-known fact first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Repeating decimals in any base]]></title>
+        <id>https://www.johndcook.com/blog/?p=74738</id>
+        <link href="https://www.johndcook.com/blog/2021/04/30/repeating-decimals-in-any-base/"/>
+        <updated>2021-04-30T12:12:46.000Z</updated>
+        <summary type="html"><![CDATA[My previous post ended with a discussion of repeating binary decimals such as 0.00110011…two = 1/5. For this post I’ll explain how calculations like that are done, how to convert a repeating decimal in any base to a fraction. First of all, we only need to consider repeating decimals of the form 0.1b, 0.01b, 0.001b, […]
+Repeating decimals in any base first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collections: Teaching Paradox, Europa Universalis IV, Part I: State of Play]]></title>
+        <id>https://acoup.blog/?p=6992</id>
+        <link href="https://acoup.blog/2021/04/30/collections-teaching-paradox-europa-univeralis-iv-part-i-state-of-play/"/>
+        <updated>2021-04-30T06:10:40.000Z</updated>
+        <summary type="html"><![CDATA[This is the first post in a series that will be examining the historical assumptions of Paradox Interactive’s grand strategy computer game set in the early modern period, Europa Universalis IV. And this series will in turn be part of a larger series looking at several of Paradox’s games and how they treat their historical … Continue reading Collections: Teaching Paradox, Europa Universalis IV, Part I: State of Play →]]></summary>
+        <author>
+            <name>Bret Devereaux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chaotic image out of regular slices]]></title>
+        <id>https://www.johndcook.com/blog/?p=74707</id>
+        <link href="https://www.johndcook.com/blog/2021/04/29/regular-slices/"/>
+        <updated>2021-04-30T00:56:13.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday I wrote about the bits in powers of 3. That post had a low-resolution image, which has its advantages, but here’s a higher resolution image that also has its advantages. The image looks chaotic. I say this in the colloquial sense, not in the technical sense as in period three implies chaos. I just […]
+Chaotic image out of regular slices first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolution of random number generators]]></title>
+        <id>https://www.johndcook.com/blog/?p=74675</id>
+        <link href="https://www.johndcook.com/blog/2021/04/29/reinventing-rng/"/>
+        <updated>2021-04-29T14:04:41.000Z</updated>
+        <summary type="html"><![CDATA[The previous post showed that the bits of prime powers look kinda chaotic. When you plot them, they form a triangular shape because the size of the numbers is growing. The numbers are growing geometrically, so their binary representations are growing linearly. Here’s the plot for powers of 5: You can crop the triangle so […]
+Evolution of random number generators first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Labor of Division (Episode V): Faster Narrowing Division]]></title>
+        <id>http://ridiculousfish.com/blog/posts/labor-of-division-episode-v.html</id>
+        <link href="http://ridiculousfish.com/blog/posts/labor-of-division-episode-v.html"/>
+        <updated>2021-04-29T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Last post explored Algorithm D, and some improvements for the 3 ÷ 2 = 1 digit case. This post presents a narrowing division algorithm, improving upon the widely used “divlu” function from Hacker’s Delight. I am optimistic that these ideas are original.
+divlu is a narrowing division: it divides a 4 digit number by a 2 digit number, producing a 2 digit quotient and remainder. This is achieved by specializing Algorithm D for 4-digit dividend and 2-digit divisor.
+q̂ is an estimated quotient digit. It is quite close to the quotient digit q; it may be exactly the same, or larger by 1 or 2, and that’s all! The tricky parts of divlu is “correcting” q̂ to the true digit, by subtracting 0, 1, or 2.
+Here is the correction step from Hacker’s Delight:
+again1:
+   if (q1 >= b || q1*vn0 > b*rhat + un1) {
+…]]></summary>
+        <author>
+            <name>ridiculous_fish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powers of 3 in binary]]></title>
+        <id>https://www.johndcook.com/blog/?p=74643</id>
+        <link href="https://www.johndcook.com/blog/2021/04/28/powers-of-3-in-binary/"/>
+        <updated>2021-04-29T01:31:32.000Z</updated>
+        <summary type="html"><![CDATA[I was thumbing through A New Kind of Science [1] and one of the examples that jumped out at me was looking at the bits in the binary representation of the powers of 3. I wanted to reproduce the image myself and here’s the result. Here a white square represents a 1 and a blue […]
+Powers of 3 in binary first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Factors of orders of sporadic groups]]></title>
+        <id>https://www.johndcook.com/blog/?p=74565</id>
+        <link href="https://www.johndcook.com/blog/2021/04/28/sporadic-group-factors/"/>
+        <updated>2021-04-28T11:58:16.000Z</updated>
+        <summary type="html"><![CDATA[I was curious about the orders of the sporadic groups, specifically their prime factors, so I made a bar graph to show how often each factor appears. To back up a little bit, simple groups are to groups roughly what prime numbers are to integers. Finite simple groups have been fully classified, and they fall […]
+Factors of orders of sporadic groups first appeared on John D. Cook.]]></summary>
+        <author>
+            <name>John</name>
         </author>
     </entry>
 </feed>
