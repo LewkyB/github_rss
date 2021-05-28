@@ -511,15 +511,6 @@
           "publishedOn": "2021-04-29T01:31:32.000Z",
           "wordCount": null,
           "title": "Powers of 3 in binary"
-        },
-        {
-          "id": "https://www.johndcook.com/blog/?p=74565",
-          "author": "John",
-          "description": "I was curious about the orders of the sporadic groups, specifically their prime factors, so I made a bar graph to show how often each factor appears. To back up a little bit, simple groups are to groups roughly what prime numbers are to integers. Finite simple groups have been fully classified, and they fall […]\nFactors of orders of sporadic groups first appeared on John D. Cook.",
-          "link": "https://www.johndcook.com/blog/2021/04/28/sporadic-group-factors/",
-          "publishedOn": "2021-04-28T11:58:16.000Z",
-          "wordCount": null,
-          "title": "Factors of orders of sporadic groups"
         }
       ]
     },

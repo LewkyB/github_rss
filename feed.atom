@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lewkyb.github.io/github_rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T22:56:50.402Z</updated>
+    <updated>2021-05-28T00:29:00.035Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lewkyb.github.io/github_rss/index.html"/>
     <link rel="self" href="https://lewkyb.github.io/github_rss/feed.atom"/>
@@ -656,17 +656,6 @@ again1:
         <updated>2021-04-29T01:31:32.000Z</updated>
         <summary type="html"><![CDATA[I was thumbing through A New Kind of Science [1] and one of the examples that jumped out at me was looking at the bits in the binary representation of the powers of 3. I wanted to reproduce the image myself and here’s the result. Here a white square represents a 1 and a blue […]
 Powers of 3 in binary first appeared on John D. Cook.]]></summary>
-        <author>
-            <name>John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Factors of orders of sporadic groups]]></title>
-        <id>https://www.johndcook.com/blog/?p=74565</id>
-        <link href="https://www.johndcook.com/blog/2021/04/28/sporadic-group-factors/"/>
-        <updated>2021-04-28T11:58:16.000Z</updated>
-        <summary type="html"><![CDATA[I was curious about the orders of the sporadic groups, specifically their prime factors, so I made a bar graph to show how often each factor appears. To back up a little bit, simple groups are to groups roughly what prime numbers are to integers. Finite simple groups have been fully classified, and they fall […]
-Factors of orders of sporadic groups first appeared on John D. Cook.]]></summary>
         <author>
             <name>John</name>
         </author>
